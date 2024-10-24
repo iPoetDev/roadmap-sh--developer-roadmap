@@ -5,5 +5,5 @@ Quality boosters in AI image generation are techniques and tools used to enhance
 Learn more from the following resources:
 
 - [@guide@Quality Boosters | Learnprompting.org]( https://learnprompting.org/docs/image_prompting/quality_boosters)
-- [@article@A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models |Medium.com](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580) 
+- [@article@A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models |Medium.com](https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580)
 - [@guide@Enhancing Text-to-Image Prompts: Techniques and Best Practices - Steh Blog]( https://steh.github.io/informationsecurity/text-image-prompts/ )
