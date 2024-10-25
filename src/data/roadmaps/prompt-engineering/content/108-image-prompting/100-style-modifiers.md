@@ -6,4 +6,8 @@ Learn more from the following resources:
 
 - [@guide@Style Modifiers | LearnPrompting.org ](https://learnprompting.org/docs/image_prompting/style_modifiers)
 - [@article@A Beginner’s Guide to Prompt Design for Text-to-Image Generative Models | Medium.com]( https://towardsdatascience.com/a-beginners-guide-to-prompt-design-for-text-to-image-generative-models-8242e1361580 )
+<<<<<<< HEAD
 - [@guide@Enhancing Text-to-Image Prompts: Techniques and Best Practices | Steh Blog]( https://steh.github.io/informationsecurity/text-image-prompts/ )
+=======
+- [@guide@Enhancing Text-to-Image Prompts: Techniques and Best Practices | Steh Blog]( https://steh.github.io/informationsecurity/text-image-prompts/ )
+>>>>>>> 8d7672e1a (📃 docs, data (Prompt Engineering Roadmap) Basic Concepts - In Place Edits.)

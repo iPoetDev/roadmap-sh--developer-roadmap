@@ -4,4 +4,8 @@ Deformed generations in image prompting refer to outputs from generative models 
 
 Learn more from the following resources:
 - [@article@How to Fix Hands in Stable Diffusion: A Step-by-Step Guide - AI Prompt Directory](https://www.aipromptsdirectory.com/how-to-fix-hands-in-stable-diffusion-a-step-by-step-guide/)
+<<<<<<< HEAD
 - [@guide@Guide to Negative Prompts in Stable Diffusion | getimg.ai](https://getimg.ai/guides/guide-to-negative-prompts-in-stable-diffusion)
+=======
+- [@guide@Guide to Negative Prompts in Stable Diffusion | getimg.ai](https://getimg.ai/guides/guide-to-negative-prompts-in-stable-diffusion)
+>>>>>>> 8d7672e1a (📃 docs, data (Prompt Engineering Roadmap) Basic Concepts - In Place Edits.)
